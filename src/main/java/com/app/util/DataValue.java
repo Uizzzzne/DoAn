@@ -1,7 +1,6 @@
 package com.app.util;
 
 public class DataValue {
-
     public static final String[] BRAND_NAME = {
             "Omachi", "Vinamilk", "Oishi", "Orion", "Lays",
             "Coca", "Pepsi", "Vissan", "Cooking Tường An", "Acecook",
@@ -142,8 +141,6 @@ public class DataValue {
             "Liên Ấp 1-2-3, Xã Hưng Long, Bình Chánh, TPHCM", "Số 5B, Phường  Thạnh Mỹ Lợi, Quận 2, TPHCM", "Bà Huyện Thanh Quan, Phường 5, Quận 4, TPHCM", "3, Phường 5, Quận 11, TPHCM", "H10, Phường An Lạc, Bình Tân, TPHCM",
             "Thạnh Xuân 22, Phường Thới An, Quận 12, TPHCM", "Trường Sa, Phường 13, Bình Thạnh, TPHCM", "Cầu Đôi, Xã Đa Phước, Bình Chánh, TPHCM", "Rần Chác, Xã Thạnh An, Cần Giờ, TPHCM", "Lê Thị Riêng, Phường 2, Quận 3, TPHCM",
             "Đồng Khởi, Phường 5, Tân Bình, TPHCM", "Nguyễn Thượng Hiền, Phường 5, Quận 10, TPHCM", "Kênh 3, Xã Lê Minh Xuân, Bình Chánh, TPHCM", "Số 97, Phường Bình Khánh, Quận 2, TPHCM", "Lưu Văn Lang, Phường Bến Nghé, Quận 1, TPHCM"};
-
-
 
 
 }

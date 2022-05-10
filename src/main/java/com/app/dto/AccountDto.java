@@ -1,14 +1,11 @@
 package com.app.dto;
 
-import com.app.entity.Order;
-import com.app.entity.Role;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.experimental.Accessors;
 
-import javax.persistence.*;
 import java.util.List;
 
 @Getter
