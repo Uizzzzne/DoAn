@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @CrossOrigin
-@RestController("customer category")
-@RequestMapping("api/v1/customer/category")
+@RestController("customer-category")
+@RequestMapping("/api/v1/customer/category")
 public class CategoryController {
 
     @Autowired

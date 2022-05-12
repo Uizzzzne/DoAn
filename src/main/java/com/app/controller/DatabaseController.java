@@ -64,6 +64,7 @@ public class DatabaseController {
 	}
 	
 	private void initCategory() {
+		
 		String[] categoryName = DataValue.CATEGORY_NAME;
 		
 		for (String s : categoryName) {
